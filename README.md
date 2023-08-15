@@ -1,5 +1,5 @@
 # 💫 About Me:
-In a world of exploration and challenges, my childhood fostered a passion for understanding and connecting with the world. As a frontend developer, that enthusiasm drives me in every project I tackle. With expertise in HTML, CSS, and JavaScript, I create immersive digital experiences. Moreover, my background in psychology empowers me to design meaningful solutions by understanding user needs. Challenges become stepping stones for personal growth, fueled by my thirst for knowledge and resilience. The outcome: captivating web interfaces that engage users with purpose and allure.
+I'm a frontend developer with expertise in **HTML**, **CSS**, and **JavaScript** my goal is to create immersive digital experiences. In a world of exploration and challenges, my childhood fostered a passion for understanding and connecting with the world. That enthusiasm drives me in every project I tackle.  Moreover, my background in psychology empowers me to design meaningful solutions by understanding user needs. Challenges become stepping stones for personal growth, fueled by my thirst for knowledge and resilience. The outcome: captivating web interfaces that engage users with purpose and allure.
 
 
 ## 🌐 Socials:
